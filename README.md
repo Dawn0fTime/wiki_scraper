@@ -12,5 +12,5 @@ virtual environment.
 pip3 insstall requests
 ```
 ```bash
-pip3 insstall beautifulsoup4
+pip3 install beautifulsoup4
 ```
