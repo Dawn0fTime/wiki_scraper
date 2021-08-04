@@ -9,7 +9,7 @@ You will need to install the requests and BeautifulSoup packages into your
 virtual environment.
 
 ```bash
-pip3 insstall requests
+pip3 install requests
 ```
 ```bash
 pip3 install beautifulsoup4
